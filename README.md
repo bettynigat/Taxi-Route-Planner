@@ -17,7 +17,7 @@ way* wherever it goes.
 ### Dijkstra's algorithm for shortest path search
 
 Our program finds the shortest path of each client in a given map using [**Dijkstra's algorithm**](https://www.geeksforgeeks.org/dijkstras-shortest-path-algorithm-greedy-algo-7/)
-The program read a map file from **stdin** and writes a *path file* (of which each line is written the shortest path of each client) to ***stdout**.
+The program read a map file from **stdin** and writes a *path file* (of which each line is written the shortest path of each client) to **stdout**.
 
 The **Path** structure has a single member variable **paths**, which is a two-dimensional array of
 integers. Each inner vector of **paths** consists of CIDs along the shortest path in the **reversed** order
