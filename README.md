@@ -1,6 +1,6 @@
 # Taxi-Route-Planner
 
-The purpose of this project is to implementa shortest path search program for a Taxi driver using Dijkstra's algorithm.
+The purpose of this project is to implement shortest path search program for a Taxi driver using Dijkstra's algorithm.
 
 ### Problem-statement 
 
