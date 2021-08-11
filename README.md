@@ -5,7 +5,7 @@ The purpose of this project is to implement shortest path search program for a T
 ### Problem-statement 
 
 We plan routes of a texi to deliver multiple clients to their own destinations. 
-We are provided with an arbitrary **map** that consists of **crossroad**s, *road*s, and *client*s. A **map** is
+We are provided with an arbitrary **map** that consists of **crossroad**s, **road**s, and **client**s. A **map** is
 represented on a 2D coordinate system with x- and y-axis. A **crossroad** is represented as a point on the
 map with a 2D coordinate (x, y), and each crossroad is given a unique ID named CID. A **road**
 connects two different crossroads in a straight line, which is represented as a pair of two different
